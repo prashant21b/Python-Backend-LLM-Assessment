@@ -1,0 +1,6 @@
+flask
+langchain
+openai
+duckduckgo-search
+python-dotenv
+requests
