@@ -13,7 +13,7 @@ An intelligent backend API agent that provides real-time stock price data and de
 
 ## Project Structure
 
-stock_market_agent/
+Python-Backend-LLM-Assessment/
 ├── app/
 │   ├── __init__.py         # Flask app factory
 │   ├── agent.py            # LangChain prompt & logic
@@ -35,8 +35,8 @@ stock_market_agent/
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd stock_market_agent
+git clone https://github.com/prashant21b/Python-Backend-LLM-Assessment.git
+cd Python-Backend-LLM-Assessment
 ```
 
 ### 2. Create a virtual environment
